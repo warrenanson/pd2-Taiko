@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>pics/太鼓達人開始畫面.jpg</file>
+        <file>pics/gamebg.png</file>
+        <file>pics/blue.png</file>
+        <file>pics/red.png</file>
+    </qresource>
+</RCC>
